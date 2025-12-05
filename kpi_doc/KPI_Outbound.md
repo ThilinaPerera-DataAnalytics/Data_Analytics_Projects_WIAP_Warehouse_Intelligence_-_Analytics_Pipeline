@@ -93,7 +93,7 @@ Avg. PLoading Time = (Loading Completed - Pick Completed) / Days Count
 **Business Question:**</br>Is outbound volume growing or sliding?  </br>  
 **Formula:**
 ```
-Total count (by unit/ CBM/ Pallets) over time
+Total unit count over time
 ```   
 **Importance:**</br>Reflects business demand + warehouse capacity resilience.  </br>  
 
