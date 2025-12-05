@@ -12,7 +12,7 @@ This project mirrors a **real enterprise warehouse data platform** and showcases
 
 Click here to interact with the [Online **Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiODYzM2RmOWMtYzA5Yi00MzQzLTkyYTEtODMxNWJmOTQ2M2FhIiwidCI6ImM0ZGRhYWFjLTQ4OWItNGQ1Zi1hMzVjLWFhODVlNmVkZjhkOCJ9)
 
-![cover image](images\cover_image.png)
+![cover image](/cover_image.png)
 
 **WIAP** is a full-stack **data engineering + analytics + warehouse operations intelligence platform** designed to simulate and analyze real FMCG/3PL warehouse environments.
 
@@ -48,7 +48,7 @@ Everything mirrors **real industry workflow** learned from *9+ years* working in
 ---
 ## ♻️ Basic Warehouse Operation Flow
 
-![WH operation](images\wh_process.png)
+![WH operation](/wh_process.png)
 </br>
 *`End-to-end WH operation`*
 
@@ -66,7 +66,7 @@ A **Kanban board** is included to track:
 * KPI validation
 * Future roadmap (Phase II Ops)
 
-![GitHub Projects](images\github_projects.png)
+![GitHub Projects](/github_projects.png)
 </br>`Progress tracking with GitHub Projects - Kanban board`*
 
 ---
@@ -139,8 +139,9 @@ Data_Analytics_Projects_Warehouse_Process_Analysis_Pipeline/
 └── README.md                          # Project documentation
 ```
 ---
-## Data Pipeline - *from mid to matrix*</br><font size=2>🧠 Idea → 🎨 Design → 🔁 ETL → 📊 Analyze → 🎛️ Dashboard → 📈 Results</font>
-![Data Pipeline](images\data_pipeline.png)
+## 🧰 Data Pipeline - *from mind to matrix*</br><font size=2>🧠 Idea → 🎨 Design → 🔁 ETL → 📊 Analyze → 🎛️ Dashboard → 📈 Results</font>
+
+![Data Pipeline](/data_pipeline.png)
 
 ## 🏗️ Data Architecture
 *Python + VS Code - [`data_generator.py`](src\data_generator.py)*
@@ -216,7 +217,7 @@ Model highlights:
 * Department-wise measure tables
 * KPI folders for governance
 
-![Data Model](images\wh_data_model.png)</br>
+![Data Model](/wh_data_model.png)</br>
 *`Data model`*
 
 ---
@@ -236,7 +237,7 @@ Each KPI includes:
 ✔ Warehouse utilization  
 ✔ All operational KPIs summarized  
 
-![COO's view](images\coo_dashboard.png)</br>
+![COO's view](/coo_dashboard.png)</br>
 *`COO's UI`*
 
 ### 📗 Inbound/ Retunrs KPIs - [*Inbound/ Returns KPI Dictionary 🔍*](KPI_doc\KPI_Inbound.md)
@@ -249,12 +250,11 @@ Each KPI includes:
 ✔ Return behaviors   
 ✔ Incident reporting
 
-![Inbounds](images\inbound_dashboard.png)</br>
+![Inbounds](/inbound_dashboard.png)</br>
 *`Inbounds UI`*
 
-![Returns](images\retunrs_dashboard.png)</br>
+![Returns](/retunrs_dashboard.png)</br>
 *`Returns UI`*
-
 
 ### 📘 Outbound KPIs - [*Outbound KPI Dictionary 🔍*](KPI_doc\KPI_Outbound.md)
 ✔ Labour efficiency  
@@ -267,7 +267,7 @@ Each KPI includes:
 ✔ Vehicle utilization  
 ✔ On-Time-Dispatch (OTD) %  
 
-![Outbound](images\outbound_dashboard.png)</br>
+![Outbound](/outbound_dashboard.png)</br>
 *`Outbounds UI`*
 
 ---
