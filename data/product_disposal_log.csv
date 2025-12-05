@@ -1,0 +1,701 @@
+disposal_date,product_id,disposal_reason,disposal_qty,qcm_approval
+2023-09-09,903363,Physical damage,10,Approved
+2022-05-26,308386,Quality issue,24,Approved
+2022-06-16,815349,Regulatory issue,99,Approved
+2022-12-17,545670,Physical damage,55,Approved
+2022-10-12,973301,Regulatory issue,14,Approved
+2022-03-07,301883,Physical damage,53,Approved
+2024-05-22,865925,Regulatory issue,87,Approved
+2023-11-11,830868,Quality issue,56,Approved
+2023-05-14,220543,Quality issue,55,Approved
+2022-07-26,682838,Physical damage,20,Approved
+2024-08-28,982035,Expired,32,Approved
+2024-04-15,553150,Physical damage,68,Approved
+2024-04-14,105386,Quality issue,91,Approved
+2024-03-02,796960,Quality issue,13,Approved
+2023-07-23,534059,Expired,93,Approved
+2023-02-10,851805,Quality issue,41,Approved
+2023-10-23,814300,Physical damage,59,Approved
+2024-09-19,209915,Physical damage,78,Approved
+2023-09-12,347756,Regulatory issue,75,Approved
+2022-05-03,419903,Expired,97,Approved
+2022-05-13,737717,Regulatory issue,62,Approved
+2023-01-24,663408,Physical damage,71,Approved
+2022-01-07,266017,Physical damage,99,Approved
+2024-04-14,681468,Regulatory issue,91,Approved
+2024-10-02,190134,Physical damage,81,Pending
+2024-11-14,469613,Expired,84,Approved
+2023-08-17,190312,Quality issue,68,Approved
+2022-05-26,659964,Physical damage,48,Approved
+2022-07-12,350897,Expired,66,Approved
+2022-02-27,864680,Regulatory issue,8,Approved
+2023-03-29,884460,Physical damage,48,Approved
+2023-02-13,530915,Expired,41,Approved
+2023-08-30,115068,Physical damage,28,Approved
+2022-06-16,586820,Regulatory issue,6,Approved
+2024-05-17,961663,Physical damage,23,Approved
+2023-09-14,216629,Expired,76,Approved
+2023-09-01,659964,Expired,62,Approved
+2023-09-10,741030,Regulatory issue,34,Approved
+2023-09-04,883896,Quality issue,56,Approved
+2024-04-25,155894,Expired,37,Approved
+2024-12-29,380941,Regulatory issue,99,Approved
+2023-03-29,530115,Physical damage,59,Approved
+2023-04-23,472627,Physical damage,71,Approved
+2022-01-20,569958,Expired,82,Approved
+2022-05-10,712933,Physical damage,36,Approved
+2024-09-17,490915,Expired,57,Approved
+2022-02-16,885847,Regulatory issue,77,Approved
+2023-07-08,316378,Regulatory issue,99,Approved
+2024-08-15,416170,Physical damage,61,Approved
+2023-01-02,434750,Quality issue,44,Approved
+2023-10-24,190134,Expired,45,Approved
+2024-09-14,447400,Physical damage,84,Approved
+2023-02-11,974536,Quality issue,54,Approved
+2024-02-29,552123,Quality issue,88,Approved
+2023-10-29,663813,Physical damage,97,Approved
+2022-10-03,603257,Quality issue,70,Approved
+2023-10-24,428326,Regulatory issue,50,Approved
+2022-01-02,925587,Quality issue,18,Approved
+2022-03-10,802436,Quality issue,25,Approved
+2022-08-04,533717,Expired,18,Approved
+2022-02-01,551060,Regulatory issue,63,Approved
+2024-09-30,234747,Regulatory issue,28,Pending
+2024-08-06,596200,Quality issue,51,Approved
+2022-03-16,410114,Regulatory issue,68,Approved
+2023-06-04,552123,Quality issue,73,Approved
+2024-07-06,761340,Expired,50,Approved
+2023-07-30,317344,Quality issue,55,Approved
+2023-02-18,668325,Quality issue,20,Approved
+2024-10-04,862405,Physical damage,46,Approved
+2024-05-03,881155,Physical damage,94,Approved
+2023-11-15,763224,Physical damage,97,Approved
+2023-01-21,676300,Physical damage,89,Approved
+2024-07-23,778383,Regulatory issue,21,Approved
+2024-08-16,703168,Regulatory issue,14,Approved
+2024-08-24,760117,Expired,97,Approved
+2023-08-24,954429,Physical damage,87,Approved
+2024-05-25,414457,Physical damage,9,Approved
+2024-06-23,864680,Expired,56,Approved
+2022-05-07,664308,Quality issue,44,Approved
+2024-10-04,758773,Expired,69,Pending
+2022-03-20,623962,Expired,22,Approved
+2024-02-20,767630,Expired,82,Approved
+2024-05-16,763224,Physical damage,56,Approved
+2024-05-12,665713,Quality issue,68,Approved
+2024-01-13,351753,Regulatory issue,23,Approved
+2023-05-18,918820,Regulatory issue,62,Approved
+2023-11-11,465746,Physical damage,19,Approved
+2023-11-08,380158,Physical damage,32,Approved
+2022-08-01,218541,Regulatory issue,11,Approved
+2023-03-29,458873,Physical damage,77,Approved
+2023-02-08,167680,Regulatory issue,34,Approved
+2023-08-11,632183,Expired,10,Approved
+2023-02-02,499708,Physical damage,88,Approved
+2022-08-10,182786,Expired,89,Approved
+2022-11-07,830904,Expired,26,Approved
+2022-09-23,536365,Quality issue,85,Approved
+2023-04-05,155245,Regulatory issue,15,Approved
+2022-08-08,781158,Quality issue,77,Approved
+2024-01-12,719004,Regulatory issue,57,Approved
+2024-05-28,465746,Expired,69,Approved
+2023-11-07,277336,Physical damage,72,Approved
+2022-02-04,963152,Expired,24,Approved
+2023-08-29,433856,Expired,67,Approved
+2023-12-31,125091,Physical damage,59,Approved
+2023-12-08,229367,Regulatory issue,51,Approved
+2023-10-20,222819,Expired,68,Approved
+2024-12-12,521911,Regulatory issue,87,Approved
+2023-01-12,979300,Quality issue,20,Approved
+2022-03-03,299666,Expired,20,Approved
+2024-12-06,849747,Physical damage,10,Pending
+2022-06-21,585758,Expired,85,Approved
+2024-01-14,577049,Quality issue,77,Approved
+2022-07-21,391536,Regulatory issue,53,Approved
+2022-03-11,720404,Expired,29,Approved
+2024-10-15,235956,Physical damage,78,Approved
+2024-11-20,596200,Regulatory issue,64,Approved
+2023-01-01,831354,Quality issue,68,Approved
+2024-05-10,400443,Expired,57,Approved
+2022-02-16,609852,Quality issue,8,Approved
+2024-12-31,586507,Physical damage,73,Approved
+2024-11-14,612527,Regulatory issue,59,Approved
+2023-06-10,290750,Regulatory issue,20,Approved
+2024-05-25,688984,Regulatory issue,42,Approved
+2022-03-29,552703,Quality issue,45,Approved
+2022-11-16,948849,Physical damage,24,Approved
+2023-04-16,293290,Physical damage,32,Approved
+2024-08-17,900838,Physical damage,50,Approved
+2024-08-19,218792,Regulatory issue,45,Approved
+2024-12-06,482540,Regulatory issue,52,Approved
+2023-05-22,216629,Physical damage,69,Approved
+2024-01-12,167773,Quality issue,56,Approved
+2022-05-17,203333,Regulatory issue,23,Approved
+2023-10-08,676300,Regulatory issue,12,Approved
+2023-10-27,682838,Quality issue,32,Approved
+2023-01-13,448995,Physical damage,28,Approved
+2024-07-13,897417,Regulatory issue,94,Approved
+2022-02-13,403034,Physical damage,82,Approved
+2023-02-04,215336,Regulatory issue,65,Approved
+2023-01-08,954777,Regulatory issue,90,Approved
+2024-07-13,981926,Expired,70,Approved
+2022-10-23,832738,Quality issue,99,Approved
+2022-07-01,700041,Regulatory issue,19,Approved
+2024-06-11,938002,Regulatory issue,37,Approved
+2022-07-25,172323,Regulatory issue,74,Approved
+2023-03-25,108716,Regulatory issue,66,Approved
+2022-10-07,551060,Expired,43,Approved
+2022-12-20,542632,Regulatory issue,23,Approved
+2022-01-14,248610,Expired,12,Approved
+2024-09-21,586820,Regulatory issue,83,Approved
+2024-11-11,135561,Expired,70,Approved
+2022-08-25,465152,Regulatory issue,35,Approved
+2022-04-29,231832,Expired,85,Approved
+2023-09-20,701473,Physical damage,80,Approved
+2023-05-27,371109,Expired,85,Approved
+2023-02-23,437170,Quality issue,51,Approved
+2024-02-08,154597,Quality issue,75,Approved
+2022-04-30,660596,Physical damage,85,Approved
+2022-08-22,802436,Physical damage,76,Approved
+2023-11-12,776325,Regulatory issue,34,Approved
+2024-09-15,742719,Expired,22,Approved
+2023-06-03,190144,Physical damage,92,Approved
+2024-09-08,662233,Regulatory issue,77,Approved
+2022-05-14,580640,Expired,32,Approved
+2024-06-29,205770,Regulatory issue,43,Approved
+2023-11-02,472358,Physical damage,8,Approved
+2024-01-11,603257,Physical damage,14,Approved
+2022-08-07,427093,Quality issue,64,Approved
+2023-11-14,862534,Expired,93,Approved
+2024-02-14,130674,Physical damage,30,Approved
+2024-11-28,209915,Physical damage,55,Approved
+2023-06-17,204945,Regulatory issue,48,Approved
+2022-12-08,553150,Physical damage,30,Approved
+2024-05-11,793417,Physical damage,51,Approved
+2024-12-17,545753,Quality issue,60,Approved
+2024-10-27,938002,Expired,81,Approved
+2024-09-12,545670,Quality issue,79,Approved
+2022-05-08,943061,Expired,26,Approved
+2022-11-15,603792,Expired,97,Approved
+2023-12-26,480345,Expired,21,Approved
+2024-08-10,975738,Physical damage,20,Approved
+2024-10-06,811271,Physical damage,16,Approved
+2022-04-14,612969,Regulatory issue,70,Approved
+2022-08-28,286592,Expired,46,Approved
+2023-09-07,714543,Expired,84,Approved
+2022-06-08,708534,Expired,80,Approved
+2022-11-01,154741,Expired,47,Approved
+2023-07-14,410114,Expired,53,Approved
+2023-02-24,183454,Physical damage,35,Approved
+2022-12-01,608301,Expired,38,Approved
+2023-09-13,439449,Physical damage,55,Approved
+2022-12-19,577049,Regulatory issue,31,Approved
+2023-04-24,510342,Quality issue,84,Approved
+2024-06-19,523458,Expired,52,Approved
+2023-05-13,211512,Regulatory issue,54,Approved
+2022-01-16,585925,Quality issue,99,Approved
+2023-07-22,144289,Regulatory issue,38,Approved
+2024-04-01,649807,Regulatory issue,77,Approved
+2023-01-07,812169,Physical damage,81,Approved
+2022-12-11,839742,Quality issue,41,Approved
+2022-05-18,363394,Expired,45,Approved
+2024-09-17,224102,Quality issue,24,Approved
+2024-01-22,202739,Quality issue,45,Approved
+2022-09-21,934631,Regulatory issue,84,Approved
+2023-12-18,140557,Regulatory issue,11,Approved
+2024-12-31,357024,Expired,96,Approved
+2023-10-15,649305,Physical damage,91,Approved
+2022-01-17,830829,Expired,15,Approved
+2023-03-08,895998,Quality issue,68,Approved
+2022-10-24,671414,Physical damage,94,Approved
+2024-05-24,946470,Physical damage,34,Approved
+2022-02-24,303948,Physical damage,13,Approved
+2024-03-08,121512,Physical damage,14,Approved
+2022-09-14,167680,Expired,74,Approved
+2023-02-25,891288,Quality issue,44,Approved
+2022-12-23,767154,Quality issue,26,Approved
+2023-12-08,938002,Quality issue,45,Approved
+2023-07-31,762474,Quality issue,64,Approved
+2024-08-06,746562,Quality issue,94,Approved
+2023-10-26,415020,Expired,56,Approved
+2022-12-17,604259,Expired,41,Approved
+2022-06-14,325839,Expired,61,Approved
+2022-08-10,935509,Physical damage,44,Approved
+2024-04-08,347756,Physical damage,66,Approved
+2022-09-14,931062,Expired,98,Approved
+2022-04-24,219124,Quality issue,90,Approved
+2022-08-10,465996,Regulatory issue,12,Pending
+2023-09-12,658341,Quality issue,84,Approved
+2023-09-30,243285,Expired,45,Approved
+2024-01-18,165567,Quality issue,40,Approved
+2022-07-15,897131,Expired,99,Approved
+2023-01-10,567263,Regulatory issue,28,Approved
+2024-10-18,437170,Expired,74,Approved
+2023-08-24,969554,Physical damage,57,Pending
+2023-04-04,832216,Expired,72,Approved
+2024-06-20,931062,Quality issue,20,Approved
+2023-12-04,953092,Regulatory issue,60,Approved
+2024-08-03,259331,Physical damage,20,Approved
+2024-09-22,664720,Regulatory issue,87,Approved
+2022-08-05,835091,Expired,57,Approved
+2024-10-06,854189,Physical damage,85,Approved
+2022-08-10,657804,Physical damage,96,Pending
+2023-11-03,690495,Expired,89,Approved
+2023-03-19,812169,Regulatory issue,65,Approved
+2024-12-23,773010,Regulatory issue,63,Approved
+2023-08-29,136260,Expired,67,Approved
+2024-09-30,185283,Quality issue,68,Approved
+2023-05-04,123419,Physical damage,99,Approved
+2023-10-19,112721,Regulatory issue,75,Approved
+2022-11-23,862405,Quality issue,61,Approved
+2023-01-28,810607,Expired,20,Approved
+2023-04-22,645185,Expired,28,Approved
+2023-11-16,325823,Quality issue,78,Approved
+2024-07-21,630992,Expired,62,Approved
+2022-05-24,903363,Regulatory issue,72,Approved
+2023-06-16,845459,Expired,38,Approved
+2024-02-19,105386,Physical damage,56,Approved
+2024-01-24,347756,Expired,22,Approved
+2022-11-27,371109,Expired,23,Approved
+2023-10-02,853672,Physical damage,59,Approved
+2023-04-16,654295,Expired,69,Approved
+2023-01-18,333270,Physical damage,78,Approved
+2022-12-01,542654,Expired,90,Approved
+2022-07-17,778840,Physical damage,73,Approved
+2024-06-09,596104,Physical damage,53,Approved
+2022-04-05,560988,Quality issue,8,Approved
+2023-08-17,898953,Quality issue,78,Approved
+2024-01-29,879903,Regulatory issue,99,Approved
+2024-11-15,885471,Physical damage,75,Approved
+2022-05-29,400921,Expired,33,Approved
+2022-05-19,922686,Physical damage,22,Approved
+2024-06-08,791453,Quality issue,64,Approved
+2024-09-14,709859,Regulatory issue,14,Approved
+2022-09-07,873287,Physical damage,65,Approved
+2023-08-12,870859,Regulatory issue,18,Approved
+2022-02-12,849747,Regulatory issue,55,Approved
+2022-02-01,233192,Regulatory issue,71,Approved
+2022-07-22,686351,Expired,90,Approved
+2022-04-30,574159,Regulatory issue,44,Approved
+2022-02-21,832216,Expired,6,Approved
+2024-02-04,953092,Physical damage,85,Approved
+2024-01-20,510342,Expired,6,Approved
+2024-10-23,850524,Expired,37,Approved
+2022-01-27,488682,Expired,67,Approved
+2022-01-30,921117,Physical damage,33,Approved
+2024-07-23,854189,Regulatory issue,36,Approved
+2024-03-08,812496,Quality issue,51,Approved
+2024-08-23,148157,Expired,64,Approved
+2024-09-16,586820,Regulatory issue,43,Approved
+2024-01-30,254537,Quality issue,85,Approved
+2024-04-18,861337,Quality issue,27,Approved
+2022-02-04,299121,Regulatory issue,96,Approved
+2022-07-29,610235,Expired,24,Approved
+2022-09-11,540579,Expired,58,Approved
+2023-06-15,973013,Regulatory issue,90,Approved
+2024-09-06,838349,Quality issue,56,Pending
+2022-07-24,580640,Physical damage,53,Approved
+2024-06-16,116846,Physical damage,54,Approved
+2024-02-01,435265,Expired,87,Approved
+2024-03-24,755808,Quality issue,36,Approved
+2022-11-17,379309,Regulatory issue,39,Approved
+2024-01-31,255391,Quality issue,99,Approved
+2023-09-11,105386,Regulatory issue,44,Approved
+2022-05-23,512005,Expired,21,Approved
+2022-04-15,566472,Physical damage,70,Approved
+2022-07-06,188885,Quality issue,88,Pending
+2023-03-09,585925,Quality issue,33,Approved
+2022-11-03,504555,Physical damage,19,Approved
+2022-04-17,105242,Physical damage,47,Approved
+2024-12-27,743491,Regulatory issue,87,Approved
+2024-03-14,752082,Quality issue,81,Approved
+2024-12-18,934579,Quality issue,56,Approved
+2024-07-17,211702,Quality issue,82,Approved
+2022-02-24,551699,Physical damage,55,Approved
+2024-07-18,407199,Expired,11,Approved
+2023-04-08,832216,Physical damage,78,Approved
+2023-08-25,686853,Expired,63,Approved
+2023-08-13,939733,Physical damage,66,Approved
+2023-01-24,795085,Regulatory issue,28,Approved
+2023-12-22,790966,Expired,85,Approved
+2023-06-17,521911,Physical damage,88,Approved
+2024-12-05,963152,Quality issue,33,Approved
+2024-11-28,193500,Expired,30,Approved
+2024-09-01,352497,Regulatory issue,53,Approved
+2022-06-23,688849,Quality issue,97,Approved
+2024-08-19,973301,Physical damage,46,Approved
+2024-01-18,585925,Regulatory issue,25,Approved
+2022-04-21,858316,Regulatory issue,12,Approved
+2023-10-07,874331,Expired,15,Approved
+2022-08-08,370562,Physical damage,74,Approved
+2023-03-05,546962,Quality issue,22,Approved
+2023-05-03,788622,Regulatory issue,34,Approved
+2024-07-01,847938,Expired,36,Approved
+2023-11-01,837161,Quality issue,58,Approved
+2022-09-15,757386,Quality issue,32,Approved
+2024-05-31,762474,Expired,77,Approved
+2023-10-27,973817,Regulatory issue,27,Approved
+2024-02-23,116248,Regulatory issue,75,Approved
+2022-10-11,649305,Regulatory issue,36,Approved
+2022-06-15,545852,Regulatory issue,43,Approved
+2022-12-24,334124,Expired,47,Approved
+2023-10-13,308386,Physical damage,15,Approved
+2022-07-06,452567,Expired,12,Approved
+2023-02-04,259331,Regulatory issue,98,Approved
+2022-10-25,873429,Expired,22,Approved
+2023-08-21,702707,Physical damage,17,Approved
+2023-11-18,259331,Expired,10,Approved
+2024-07-22,973817,Expired,83,Approved
+2024-08-13,982201,Quality issue,97,Approved
+2022-10-10,540579,Expired,61,Approved
+2024-02-07,568882,Physical damage,78,Approved
+2022-05-02,359344,Regulatory issue,52,Approved
+2022-02-16,770370,Quality issue,85,Approved
+2023-01-12,767135,Regulatory issue,70,Approved
+2022-05-10,577049,Regulatory issue,53,Approved
+2024-12-24,973301,Quality issue,89,Approved
+2024-11-12,311135,Physical damage,74,Approved
+2022-03-31,925426,Expired,37,Approved
+2024-12-06,401316,Expired,80,Approved
+2023-04-21,200959,Regulatory issue,38,Approved
+2022-03-18,879341,Expired,75,Approved
+2024-12-12,434750,Expired,74,Approved
+2023-04-25,760151,Expired,66,Pending
+2022-01-25,806367,Physical damage,58,Pending
+2023-09-04,802813,Physical damage,54,Approved
+2023-01-16,116721,Physical damage,95,Approved
+2022-06-23,372197,Regulatory issue,80,Approved
+2024-03-14,690861,Regulatory issue,42,Approved
+2022-09-16,317344,Regulatory issue,25,Approved
+2022-11-03,105242,Quality issue,20,Approved
+2024-06-06,954429,Expired,40,Approved
+2024-11-13,116248,Physical damage,20,Approved
+2024-10-31,832738,Quality issue,46,Approved
+2024-08-16,924997,Physical damage,13,Approved
+2023-07-14,437170,Quality issue,27,Approved
+2022-08-14,865925,Expired,86,Approved
+2022-04-16,112302,Regulatory issue,22,Approved
+2022-07-31,810607,Quality issue,88,Approved
+2024-04-08,800393,Expired,40,Approved
+2023-03-21,825851,Expired,44,Pending
+2024-02-14,521911,Physical damage,45,Approved
+2022-05-01,645680,Expired,20,Approved
+2024-06-30,586634,Quality issue,32,Approved
+2023-03-07,862405,Physical damage,54,Approved
+2023-12-21,388820,Quality issue,51,Approved
+2024-11-26,218792,Quality issue,37,Approved
+2023-12-22,112302,Physical damage,20,Approved
+2023-03-30,802436,Expired,76,Approved
+2024-06-05,738343,Regulatory issue,59,Approved
+2022-12-06,854147,Quality issue,51,Approved
+2023-03-09,530915,Physical damage,82,Approved
+2022-03-19,958326,Quality issue,16,Approved
+2022-09-16,837619,Quality issue,67,Approved
+2024-12-20,989199,Quality issue,10,Approved
+2024-11-10,830868,Expired,69,Approved
+2024-08-10,497229,Physical damage,97,Approved
+2023-02-23,566472,Quality issue,23,Approved
+2023-11-06,171063,Quality issue,6,Approved
+2022-02-20,494215,Quality issue,11,Approved
+2022-10-28,364638,Regulatory issue,83,Approved
+2024-12-29,662233,Regulatory issue,77,Approved
+2023-08-04,635483,Expired,40,Approved
+2024-11-16,173198,Quality issue,9,Approved
+2024-06-11,849391,Expired,35,Approved
+2024-02-04,912431,Quality issue,82,Pending
+2023-01-06,828745,Quality issue,11,Approved
+2023-08-10,420100,Expired,42,Approved
+2022-11-06,650911,Physical damage,82,Approved
+2022-10-21,637304,Expired,76,Approved
+2024-08-17,221001,Expired,44,Approved
+2024-01-05,812169,Physical damage,13,Approved
+2022-12-25,443409,Quality issue,54,Approved
+2023-05-09,761340,Physical damage,81,Approved
+2022-05-02,417659,Physical damage,85,Approved
+2024-04-04,943956,Quality issue,64,Approved
+2024-12-19,424805,Regulatory issue,24,Approved
+2022-02-19,394318,Regulatory issue,88,Approved
+2024-02-16,561191,Expired,46,Approved
+2023-10-29,849747,Physical damage,45,Approved
+2024-05-16,891616,Regulatory issue,99,Approved
+2023-09-02,574159,Quality issue,19,Approved
+2022-09-11,572080,Expired,89,Approved
+2024-01-22,880654,Expired,40,Approved
+2024-04-04,144178,Quality issue,78,Approved
+2023-02-05,879903,Quality issue,79,Approved
+2023-02-22,465996,Quality issue,98,Approved
+2023-04-02,388461,Physical damage,7,Approved
+2022-10-30,602699,Expired,13,Approved
+2023-03-21,231289,Quality issue,81,Approved
+2024-08-07,173215,Physical damage,46,Approved
+2022-08-03,448084,Quality issue,72,Approved
+2024-03-25,955995,Regulatory issue,58,Approved
+2024-12-20,788570,Expired,25,Approved
+2024-12-02,204945,Regulatory issue,85,Approved
+2022-01-01,296533,Quality issue,86,Approved
+2022-03-18,803686,Physical damage,95,Approved
+2024-04-25,468179,Physical damage,86,Approved
+2024-07-31,105242,Expired,68,Approved
+2024-04-14,629289,Quality issue,35,Approved
+2022-12-23,224061,Regulatory issue,74,Approved
+2023-03-23,897417,Expired,42,Approved
+2024-03-12,857773,Expired,98,Pending
+2023-12-25,857828,Physical damage,10,Approved
+2023-05-02,530915,Quality issue,33,Approved
+2022-08-20,316378,Regulatory issue,82,Approved
+2022-10-27,272318,Quality issue,32,Approved
+2024-05-20,808848,Expired,81,Approved
+2024-08-31,808866,Expired,44,Approved
+2023-11-27,994214,Regulatory issue,84,Approved
+2022-10-17,739096,Regulatory issue,46,Approved
+2024-11-01,976864,Regulatory issue,80,Approved
+2024-08-10,765440,Regulatory issue,95,Approved
+2023-12-30,333244,Quality issue,55,Approved
+2022-10-31,278835,Expired,35,Approved
+2023-08-31,969554,Regulatory issue,87,Approved
+2024-06-02,763224,Physical damage,48,Approved
+2023-07-26,173198,Regulatory issue,44,Approved
+2023-06-17,584653,Physical damage,42,Approved
+2023-10-05,153566,Regulatory issue,22,Approved
+2024-07-07,766627,Physical damage,84,Approved
+2023-03-11,350897,Quality issue,8,Approved
+2024-10-10,424781,Regulatory issue,8,Approved
+2024-11-11,490915,Expired,43,Approved
+2022-07-04,195420,Quality issue,50,Approved
+2024-12-25,469375,Physical damage,6,Approved
+2022-09-22,167042,Regulatory issue,71,Approved
+2023-01-12,142044,Regulatory issue,30,Approved
+2024-02-22,584918,Physical damage,55,Approved
+2023-02-25,530915,Regulatory issue,61,Approved
+2024-09-06,991620,Physical damage,42,Approved
+2024-01-22,478486,Quality issue,87,Approved
+2024-01-11,636168,Quality issue,70,Approved
+2024-11-23,251622,Expired,70,Approved
+2022-10-31,162767,Regulatory issue,20,Pending
+2022-09-25,939733,Regulatory issue,35,Approved
+2024-09-30,993757,Physical damage,45,Approved
+2023-09-14,850499,Physical damage,39,Approved
+2023-08-05,850499,Quality issue,53,Approved
+2024-07-16,472627,Physical damage,8,Approved
+2023-11-20,405382,Physical damage,32,Approved
+2024-06-04,583015,Physical damage,65,Approved
+2024-01-11,183454,Regulatory issue,87,Approved
+2022-10-19,161268,Regulatory issue,54,Approved
+2023-03-20,752850,Regulatory issue,67,Approved
+2023-04-30,286229,Regulatory issue,54,Approved
+2023-08-08,317161,Quality issue,39,Approved
+2023-03-12,874331,Physical damage,82,Approved
+2022-12-03,183457,Expired,55,Approved
+2023-02-21,656281,Regulatory issue,45,Approved
+2023-05-19,110895,Physical damage,35,Approved
+2022-12-23,278423,Expired,41,Approved
+2024-11-27,140557,Regulatory issue,83,Approved
+2022-02-13,261177,Regulatory issue,83,Approved
+2024-04-06,918625,Quality issue,19,Approved
+2023-03-26,861337,Regulatory issue,9,Approved
+2022-07-23,721043,Quality issue,40,Approved
+2023-04-03,235956,Physical damage,50,Approved
+2023-11-02,226389,Quality issue,66,Approved
+2022-04-09,391536,Quality issue,66,Approved
+2024-02-07,812496,Quality issue,26,Approved
+2024-04-01,136021,Physical damage,46,Approved
+2024-08-23,923895,Quality issue,75,Approved
+2023-02-01,982035,Quality issue,36,Approved
+2023-01-27,849391,Expired,45,Approved
+2022-06-09,788622,Expired,80,Approved
+2022-03-28,407199,Quality issue,21,Approved
+2023-09-19,218541,Expired,86,Approved
+2023-08-08,949310,Physical damage,99,Approved
+2022-02-28,690495,Regulatory issue,31,Approved
+2022-01-31,472851,Regulatory issue,95,Approved
+2024-12-02,536515,Expired,24,Approved
+2024-05-21,889293,Expired,19,Approved
+2023-09-27,922686,Expired,73,Approved
+2023-05-18,623962,Quality issue,9,Approved
+2022-08-08,681468,Quality issue,75,Approved
+2023-09-30,190312,Regulatory issue,76,Approved
+2023-08-30,859028,Physical damage,36,Approved
+2023-06-02,351753,Regulatory issue,87,Approved
+2022-01-06,203333,Regulatory issue,44,Approved
+2024-08-15,719004,Regulatory issue,90,Approved
+2024-07-10,439449,Physical damage,80,Approved
+2023-10-23,205770,Physical damage,63,Approved
+2024-10-02,778383,Physical damage,66,Approved
+2024-08-08,113555,Quality issue,81,Approved
+2024-02-20,924997,Regulatory issue,50,Approved
+2024-03-15,439449,Quality issue,83,Approved
+2022-03-16,662233,Physical damage,54,Approved
+2022-11-26,350897,Physical damage,32,Pending
+2024-11-05,424805,Expired,49,Approved
+2023-12-01,932317,Quality issue,68,Approved
+2024-10-23,223043,Physical damage,87,Approved
+2022-03-19,839977,Expired,91,Approved
+2023-12-01,976864,Physical damage,97,Approved
+2024-03-28,884960,Quality issue,11,Approved
+2023-09-06,942983,Physical damage,7,Approved
+2024-04-14,422773,Regulatory issue,44,Approved
+2022-09-29,215336,Expired,30,Approved
+2022-12-08,519835,Physical damage,16,Approved
+2022-01-14,586027,Expired,56,Approved
+2022-10-05,584918,Expired,77,Pending
+2024-12-13,931448,Physical damage,44,Approved
+2022-10-11,714543,Quality issue,60,Approved
+2024-12-27,946470,Expired,35,Approved
+2023-05-18,649807,Expired,80,Approved
+2023-06-26,563616,Expired,61,Approved
+2022-08-27,229367,Regulatory issue,97,Approved
+2023-05-05,561191,Physical damage,26,Approved
+2024-07-24,204354,Physical damage,92,Approved
+2023-03-23,786735,Expired,89,Approved
+2023-05-23,889293,Regulatory issue,73,Approved
+2022-03-14,205938,Expired,71,Approved
+2023-05-12,411177,Quality issue,83,Approved
+2022-05-12,410114,Expired,10,Pending
+2023-10-03,560988,Physical damage,85,Approved
+2023-12-21,931254,Physical damage,39,Approved
+2022-10-15,779270,Regulatory issue,33,Approved
+2022-02-28,252823,Quality issue,66,Approved
+2023-08-16,279775,Regulatory issue,34,Approved
+2024-04-27,530904,Physical damage,6,Approved
+2022-04-29,299666,Regulatory issue,94,Approved
+2023-01-31,495444,Physical damage,74,Approved
+2024-03-03,465996,Quality issue,96,Approved
+2024-09-26,523458,Quality issue,29,Approved
+2024-03-21,738584,Regulatory issue,85,Approved
+2024-08-06,303948,Physical damage,92,Approved
+2023-08-29,266059,Quality issue,52,Approved
+2024-03-24,594277,Regulatory issue,58,Approved
+2022-01-13,924997,Regulatory issue,25,Approved
+2024-01-17,649305,Regulatory issue,71,Approved
+2023-04-14,828370,Regulatory issue,31,Approved
+2022-09-07,333270,Quality issue,83,Approved
+2024-09-28,683414,Regulatory issue,36,Approved
+2022-12-24,418774,Physical damage,18,Approved
+2023-12-29,655629,Quality issue,34,Approved
+2024-06-29,752850,Quality issue,14,Approved
+2024-08-02,980008,Regulatory issue,34,Approved
+2024-06-20,918625,Quality issue,65,Approved
+2022-05-05,480766,Physical damage,28,Approved
+2022-10-27,470428,Expired,63,Approved
+2022-08-02,924997,Quality issue,42,Approved
+2023-05-31,884960,Expired,6,Approved
+2022-03-07,404670,Regulatory issue,13,Approved
+2023-08-02,448594,Regulatory issue,65,Approved
+2024-04-16,812496,Expired,47,Approved
+2023-08-12,268791,Quality issue,23,Approved
+2024-07-07,742719,Quality issue,65,Approved
+2024-01-24,830904,Quality issue,97,Approved
+2022-03-25,407199,Expired,54,Approved
+2024-04-27,551571,Physical damage,67,Approved
+2022-11-04,537140,Expired,41,Approved
+2023-12-20,207196,Quality issue,94,Approved
+2023-11-12,401316,Quality issue,92,Approved
+2023-05-23,883896,Quality issue,98,Approved
+2024-02-18,873287,Quality issue,99,Approved
+2022-01-25,585758,Regulatory issue,35,Approved
+2023-07-25,545852,Quality issue,51,Approved
+2023-11-02,467361,Expired,20,Approved
+2022-11-02,713947,Physical damage,38,Approved
+2022-10-24,475484,Regulatory issue,84,Approved
+2023-05-26,979300,Expired,28,Approved
+2023-03-07,197637,Regulatory issue,66,Approved
+2023-04-29,581829,Quality issue,65,Approved
+2023-06-29,586027,Expired,43,Approved
+2023-09-13,918410,Expired,32,Approved
+2022-11-13,136021,Quality issue,18,Approved
+2024-11-21,325883,Quality issue,36,Approved
+2022-01-22,123419,Regulatory issue,69,Approved
+2024-12-27,606313,Regulatory issue,34,Approved
+2022-06-12,766632,Quality issue,94,Approved
+2022-06-08,841597,Quality issue,13,Approved
+2023-03-02,110199,Physical damage,56,Pending
+2023-05-29,231289,Physical damage,27,Approved
+2023-12-01,912431,Physical damage,13,Approved
+2022-11-20,874331,Quality issue,45,Approved
+2022-10-19,306520,Expired,62,Pending
+2022-09-14,234470,Quality issue,18,Approved
+2022-03-10,137662,Quality issue,87,Approved
+2024-02-10,620011,Expired,45,Approved
+2022-04-14,580640,Quality issue,96,Approved
+2022-05-02,678206,Quality issue,29,Approved
+2023-04-05,403058,Quality issue,10,Approved
+2024-09-03,806847,Regulatory issue,77,Approved
+2024-03-28,932317,Regulatory issue,78,Approved
+2024-01-25,675162,Expired,44,Approved
+2022-10-25,786296,Quality issue,86,Approved
+2022-11-27,586027,Physical damage,38,Approved
+2023-05-30,467361,Physical damage,64,Approved
+2024-01-12,322995,Regulatory issue,83,Approved
+2024-03-22,695171,Expired,74,Approved
+2024-05-10,656432,Regulatory issue,8,Approved
+2024-11-30,823071,Physical damage,18,Approved
+2022-10-29,342028,Quality issue,16,Approved
+2023-11-20,596864,Physical damage,29,Approved
+2024-01-07,943956,Physical damage,22,Approved
+2024-06-30,231289,Expired,74,Approved
+2024-11-02,596104,Regulatory issue,50,Approved
+2022-10-30,940812,Regulatory issue,63,Approved
+2023-07-20,167212,Physical damage,76,Approved
+2023-06-19,771562,Physical damage,43,Approved
+2024-01-31,123992,Physical damage,96,Approved
+2023-04-27,312701,Regulatory issue,13,Approved
+2022-05-23,714543,Regulatory issue,17,Approved
+2024-04-08,849391,Expired,88,Approved
+2022-07-20,205923,Physical damage,50,Approved
+2023-09-02,841129,Physical damage,54,Approved
+2023-09-20,316378,Quality issue,28,Approved
+2022-01-10,135897,Physical damage,55,Approved
+2023-10-13,611588,Physical damage,20,Approved
+2024-03-17,107214,Quality issue,75,Approved
+2024-01-24,981868,Quality issue,24,Approved
+2023-09-19,544222,Expired,37,Approved
+2023-12-03,448296,Physical damage,66,Approved
+2022-10-02,938009,Regulatory issue,75,Approved
+2022-05-29,135561,Expired,17,Approved
+2024-08-17,220084,Regulatory issue,12,Approved
+2024-05-27,922686,Quality issue,82,Approved
+2023-09-23,504555,Physical damage,50,Approved
+2023-12-05,721043,Physical damage,36,Approved
+2022-05-25,167042,Physical damage,72,Approved
+2024-12-08,879903,Regulatory issue,21,Approved
+2023-05-17,874508,Quality issue,92,Approved
+2023-09-08,987868,Physical damage,45,Approved
+2022-08-31,685718,Regulatory issue,53,Approved
+2022-11-24,597052,Regulatory issue,53,Approved
+2022-06-08,472358,Expired,63,Approved
+2022-06-12,811385,Quality issue,91,Approved
+2023-07-01,576932,Physical damage,78,Approved
+2022-10-27,668325,Regulatory issue,15,Approved
+2024-03-02,375083,Regulatory issue,83,Approved
+2023-03-17,550204,Physical damage,95,Approved
+2022-05-22,746222,Regulatory issue,71,Approved
+2023-05-19,781897,Regulatory issue,20,Approved
+2022-06-06,216629,Expired,36,Approved
+2023-04-25,760117,Expired,41,Approved
+2022-08-29,573881,Expired,24,Approved
+2024-04-14,429685,Expired,49,Approved
+2023-07-27,365035,Expired,95,Approved
+2024-11-30,299121,Quality issue,17,Approved
+2022-04-03,875411,Regulatory issue,48,Approved
+2023-11-24,117306,Physical damage,47,Approved
+2023-06-27,814300,Physical damage,89,Approved
+2024-10-28,766632,Expired,80,Approved
+2022-08-30,544720,Quality issue,72,Approved
+2024-06-30,428326,Physical damage,33,Approved
+2022-07-20,553150,Quality issue,96,Approved
+2022-01-17,925587,Expired,67,Approved
+2023-03-26,508592,Physical damage,22,Approved
+2022-10-12,519499,Physical damage,92,Approved
+2022-05-23,746562,Expired,49,Approved
+2022-11-13,537991,Expired,56,Approved
+2022-03-03,862534,Expired,49,Approved
+2022-12-15,882386,Expired,93,Approved
+2023-08-24,211702,Regulatory issue,66,Approved
+2024-01-18,197941,Quality issue,83,Pending
+2022-07-27,991620,Physical damage,67,Approved
+2023-03-28,106312,Quality issue,97,Approved
+2022-09-13,893365,Expired,34,Approved
+2023-11-21,454234,Regulatory issue,98,Approved
+2024-10-20,721538,Quality issue,20,Approved
+2023-02-09,679022,Expired,64,Approved
+2022-07-16,527217,Quality issue,28,Approved

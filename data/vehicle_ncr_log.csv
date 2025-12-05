@@ -1,0 +1,201 @@
+ncr_raised_date,ncr_id,vehicle_no,ncr_reason,ncr_status,ca_completed_date
+2022-07-10,NCR00001,975958,Odor,CA completed,2022-07-17
+2023-03-30,NCR00002,639369,Defective truck door,CA pending,
+2023-05-20,NCR00003,793668,Defective truck floor,CA completed,2023-05-24
+2022-01-28,NCR00004,376747,Defective truck box,CA completed,2022-02-05
+2022-10-19,NCR00005,755796,Defective cooling unit,CA pending,
+2023-05-04,NCR00006,725173,Defective truck door,CA completed,2023-05-08
+2022-09-20,NCR00007,761087,Defective truck door,CA completed,2022-09-26
+2023-02-04,NCR00008,969104,Odor,CA completed,2023-02-08
+2024-09-20,NCR00009,915260,Defective truck box,CA pending,
+2023-05-06,NCR00010,755796,Defective truck box,CA completed,2023-05-11
+2023-11-09,NCR00011,385905,Odor,CA pending,
+2022-08-07,NCR00012,969104,Pest,CA pending,
+2024-12-21,NCR00013,332153,Defective truck door,CA pending,
+2024-02-28,NCR00014,927199,Defective truck floor,CA completed,2024-03-09
+2022-05-24,NCR00015,747240,Defective truck floor,CA pending,
+2024-01-16,NCR00016,842083,Defective truck door,CA pending,
+2023-11-30,NCR00017,104015,Odor,CA pending,
+2024-01-30,NCR00018,730082,Defective truck box,CA pending,
+2023-07-06,NCR00019,805995,Odor,CA completed,2023-07-09
+2023-07-15,NCR00020,730082,Odor,CA pending,
+2023-08-02,NCR00021,376342,Odor,CA completed,2023-08-09
+2023-06-28,NCR00022,793668,Defective truck box,CA pending,
+2024-09-22,NCR00023,975958,Defective truck box,CA pending,
+2023-07-17,NCR00024,147795,Defective truck door,CA pending,
+2024-02-15,NCR00025,975958,Pest,CA completed,2024-02-23
+2022-05-02,NCR00026,761087,Defective truck floor,CA completed,2022-05-06
+2023-04-16,NCR00027,491934,Pest,CA completed,2023-04-26
+2024-03-01,NCR00028,747240,Pest,CA pending,
+2022-09-18,NCR00029,852208,Defective truck floor,CA completed,2022-09-25
+2024-01-18,NCR00030,271604,Pest,CA pending,
+2022-09-08,NCR00031,761087,Defective truck door,CA completed,2022-09-16
+2022-01-21,NCR00032,725173,Odor,CA pending,
+2023-05-18,NCR00033,793668,Pest,CA pending,
+2024-11-03,NCR00034,740803,Defective truck floor,CA pending,
+2022-06-03,NCR00035,747240,Defective truck box,CA completed,2022-06-10
+2023-03-19,NCR00036,271604,Pest,CA pending,
+2023-03-22,NCR00037,284331,Defective truck door,CA completed,2023-03-26
+2022-09-10,NCR00038,805995,Defective cooling unit,CA pending,
+2024-08-05,NCR00039,725173,Defective cooling unit,CA completed,2024-08-14
+2023-08-11,NCR00040,376342,Defective truck door,CA completed,2023-08-15
+2024-04-14,NCR00041,725173,Odor,CA completed,2024-04-22
+2024-08-03,NCR00042,669128,Defective truck door,CA pending,
+2023-07-17,NCR00043,669128,Defective truck box,CA pending,
+2023-12-02,NCR00044,747240,Defective cooling unit,CA pending,
+2022-10-14,NCR00045,669128,Defective truck floor,CA completed,2022-10-19
+2024-04-01,NCR00046,915260,Defective truck box,CA completed,2024-04-07
+2023-07-25,NCR00047,603843,Defective truck box,CA pending,
+2024-03-11,NCR00048,793668,Odor,CA pending,
+2024-01-09,NCR00049,915260,Defective cooling unit,CA pending,
+2024-06-27,NCR00050,610841,Defective truck box,CA completed,2024-07-03
+2023-08-09,NCR00051,969104,Pest,CA completed,2023-08-12
+2024-01-08,NCR00052,417866,Defective truck box,CA pending,
+2022-05-09,NCR00053,730082,Pest,CA pending,
+2024-02-05,NCR00054,385905,Defective cooling unit,CA completed,2024-02-10
+2022-07-08,NCR00055,332153,Odor,CA completed,2022-07-11
+2023-01-16,NCR00056,975958,Pest,CA pending,
+2022-10-17,NCR00057,740803,Defective cooling unit,CA completed,2022-10-25
+2024-06-16,NCR00058,459040,Pest,CA pending,
+2023-01-27,NCR00059,271604,Odor,CA pending,
+2022-04-26,NCR00060,104015,Pest,CA pending,
+2022-05-04,NCR00061,610841,Defective cooling unit,CA pending,
+2023-05-26,NCR00062,927199,Defective truck box,CA completed,2023-05-31
+2022-04-10,NCR00063,610841,Odor,CA pending,
+2022-12-29,NCR00064,459040,Defective cooling unit,CA completed,2023-01-04
+2024-04-03,NCR00065,498289,Defective truck door,CA pending,
+2023-10-13,NCR00066,842083,Defective cooling unit,CA pending,
+2024-05-03,NCR00067,669128,Defective truck floor,CA completed,2024-05-11
+2023-03-11,NCR00068,761087,Defective truck floor,CA pending,
+2023-03-17,NCR00069,965360,Defective truck box,CA pending,
+2023-10-01,NCR00070,842083,Defective truck floor,CA completed,2023-10-07
+2023-09-25,NCR00071,761087,Odor,CA pending,
+2024-05-09,NCR00072,332153,Pest,CA pending,
+2024-08-23,NCR00073,603843,Odor,CA completed,2024-08-31
+2023-02-12,NCR00074,563945,Defective truck floor,CA completed,2023-02-15
+2022-05-01,NCR00075,563945,Defective cooling unit,CA pending,
+2023-09-12,NCR00076,730082,Defective truck floor,CA completed,2023-09-21
+2024-09-18,NCR00077,376747,Defective truck floor,CA completed,2024-09-22
+2024-09-15,NCR00078,459040,Defective truck floor,CA completed,2024-09-18
+2024-02-26,NCR00079,915260,Defective truck door,CA pending,
+2024-05-30,NCR00080,459040,Odor,CA pending,
+2023-05-11,NCR00081,669128,Defective truck door,CA pending,
+2024-06-04,NCR00082,563945,Defective truck floor,CA pending,
+2023-01-25,NCR00083,124266,Defective truck floor,CA completed,2023-01-28
+2024-05-14,NCR00084,133960,Defective truck box,CA pending,
+2023-08-23,NCR00085,202921,Odor,CA completed,2023-08-31
+2024-06-25,NCR00086,965360,Defective truck floor,CA pending,
+2023-11-09,NCR00087,332153,Defective truck door,CA completed,2023-11-18
+2022-07-09,NCR00088,793668,Defective truck box,CA completed,2022-07-17
+2022-06-09,NCR00089,271604,Odor,CA pending,
+2023-06-15,NCR00090,842083,Defective truck floor,CA completed,2023-06-18
+2023-02-16,NCR00091,459040,Defective cooling unit,CA pending,
+2023-08-15,NCR00092,761087,Pest,CA pending,
+2022-10-19,NCR00093,927199,Defective truck door,CA pending,
+2022-10-25,NCR00094,915260,Pest,CA pending,
+2022-05-13,NCR00095,385905,Odor,CA pending,
+2023-02-10,NCR00096,852208,Odor,CA pending,
+2022-03-05,NCR00097,793668,Defective cooling unit,CA pending,
+2023-08-05,NCR00098,975958,Pest,CA completed,2023-08-09
+2024-07-06,NCR00099,271604,Odor,CA completed,2024-07-12
+2023-03-20,NCR00100,669128,Defective truck floor,CA completed,2023-03-27
+2022-09-30,NCR00101,133960,Defective truck floor,CA completed,2022-10-03
+2024-03-22,NCR00102,669128,Odor,CA completed,2024-03-31
+2024-06-17,NCR00103,271604,Defective truck door,CA pending,
+2022-07-26,NCR00104,417866,Defective truck box,CA completed,2022-08-03
+2024-01-03,NCR00105,747240,Defective truck box,CA completed,2024-01-12
+2022-04-25,NCR00106,833447,Defective truck floor,CA completed,2022-05-01
+2024-11-29,NCR00107,376747,Odor,CA pending,
+2023-06-19,NCR00108,834169,Pest,CA completed,2023-06-25
+2022-11-05,NCR00109,332153,Defective truck box,CA pending,
+2024-07-30,NCR00110,417866,Defective truck box,CA pending,
+2022-02-22,NCR00111,915260,Defective truck floor,CA completed,2022-03-04
+2023-07-15,NCR00112,915260,Odor,CA completed,2023-07-25
+2023-10-15,NCR00113,965360,Odor,CA pending,
+2024-06-06,NCR00114,834169,Defective truck floor,CA completed,2024-06-15
+2024-05-12,NCR00115,257344,Defective truck box,CA pending,
+2022-09-01,NCR00116,747240,Defective truck door,CA completed,2022-09-04
+2024-03-29,NCR00117,271604,Defective truck box,CA completed,2024-04-07
+2022-11-23,NCR00118,385905,Defective truck box,CA completed,2022-11-29
+2022-12-31,NCR00119,834169,Defective truck box,CA pending,
+2022-01-26,NCR00120,459040,Odor,CA pending,
+2023-11-10,NCR00121,730082,Odor,CA pending,
+2023-12-24,NCR00122,133960,Defective truck floor,CA pending,
+2022-10-17,NCR00123,805995,Odor,CA pending,
+2022-07-13,NCR00124,747240,Odor,CA completed,2022-07-19
+2023-03-09,NCR00125,376747,Defective truck box,CA pending,
+2024-06-07,NCR00126,747240,Defective truck floor,CA pending,
+2022-09-19,NCR00127,491934,Pest,CA pending,
+2024-11-18,NCR00128,610841,Odor,CA pending,
+2023-11-05,NCR00129,491934,Defective truck floor,CA completed,2023-11-10
+2024-11-06,NCR00130,385905,Defective truck floor,CA completed,2024-11-16
+2024-05-09,NCR00131,385905,Defective truck box,CA pending,
+2022-07-28,NCR00132,639369,Defective cooling unit,CA completed,2022-07-31
+2024-10-14,NCR00133,147795,Defective truck door,CA pending,
+2024-12-13,NCR00134,133960,Defective truck door,CA completed,2024-12-20
+2022-09-28,NCR00135,915260,Defective truck door,CA completed,2022-10-05
+2022-03-24,NCR00136,725173,Defective truck floor,CA pending,
+2023-05-19,NCR00137,684492,Pest,CA completed,2023-05-28
+2022-07-03,NCR00138,761087,Pest,CA completed,2022-07-13
+2022-02-03,NCR00139,761087,Defective truck floor,CA pending,
+2022-07-18,NCR00140,755796,Odor,CA pending,
+2024-03-15,NCR00141,805995,Defective truck floor,CA pending,
+2024-02-07,NCR00142,842083,Defective cooling unit,CA completed,2024-02-13
+2023-06-11,NCR00143,639369,Defective truck door,CA completed,2023-06-20
+2023-10-24,NCR00144,376342,Defective truck door,CA completed,2023-10-31
+2024-10-25,NCR00145,202921,Defective cooling unit,CA pending,
+2024-08-22,NCR00146,133960,Defective truck floor,CA completed,2024-08-28
+2023-05-16,NCR00147,755796,Defective truck box,CA completed,2023-05-20
+2023-04-20,NCR00148,669128,Defective cooling unit,CA completed,2023-04-24
+2024-08-29,NCR00149,284331,Pest,CA completed,2024-09-08
+2024-11-28,NCR00150,975958,Defective truck floor,CA completed,2024-12-08
+2023-05-12,NCR00151,498289,Defective truck box,CA completed,2023-05-19
+2022-08-09,NCR00152,271604,Defective truck door,CA completed,2022-08-17
+2023-08-26,NCR00153,842083,Defective truck box,CA pending,
+2024-09-24,NCR00154,761087,Odor,CA pending,
+2024-06-19,NCR00155,563945,Defective truck box,CA pending,
+2022-11-10,NCR00156,852208,Pest,CA completed,2022-11-17
+2022-09-28,NCR00157,610841,Defective truck door,CA pending,
+2023-12-07,NCR00158,834169,Defective truck door,CA completed,2023-12-17
+2023-12-16,NCR00159,852208,Defective truck box,CA pending,
+2023-11-03,NCR00160,124266,Pest,CA pending,
+2023-12-30,NCR00161,805995,Odor,CA pending,
+2023-12-20,NCR00162,915260,Pest,CA pending,
+2022-07-31,NCR00163,740803,Odor,CA pending,
+2024-01-25,NCR00164,610841,Defective truck door,CA completed,2024-01-30
+2022-01-18,NCR00165,725173,Defective truck door,CA completed,2022-01-28
+2023-08-01,NCR00166,376747,Pest,CA completed,2023-08-05
+2023-10-12,NCR00167,975958,Defective truck floor,CA completed,2023-10-19
+2024-09-21,NCR00168,104015,Defective truck door,CA completed,2024-09-27
+2024-04-28,NCR00169,833447,Odor,CA pending,
+2023-03-07,NCR00170,927199,Odor,CA completed,2023-03-15
+2023-08-11,NCR00171,376747,Defective truck door,CA completed,2023-08-17
+2024-03-17,NCR00172,147795,Defective truck floor,CA pending,
+2024-01-27,NCR00173,842083,Defective truck floor,CA pending,
+2023-10-20,NCR00174,376342,Defective cooling unit,CA completed,2023-10-28
+2024-02-03,NCR00175,915260,Pest,CA pending,
+2022-12-26,NCR00176,147795,Odor,CA completed,2022-12-31
+2023-06-25,NCR00177,376747,Defective truck door,CA completed,2023-07-05
+2022-03-31,NCR00178,639369,Defective cooling unit,CA pending,
+2024-03-19,NCR00179,805995,Defective cooling unit,CA completed,2024-03-29
+2024-05-13,NCR00180,385905,Defective truck floor,CA completed,2024-05-19
+2022-07-05,NCR00181,679149,Pest,CA pending,
+2024-07-13,NCR00182,834169,Defective truck door,CA completed,2024-07-16
+2024-06-16,NCR00183,610841,Defective truck box,CA completed,2024-06-23
+2022-11-22,NCR00184,603843,Defective cooling unit,CA completed,2022-11-28
+2022-02-11,NCR00185,284331,Defective truck box,CA pending,
+2022-02-10,NCR00186,491934,Defective truck door,CA pending,
+2024-03-09,NCR00187,761087,Pest,CA pending,
+2024-09-10,NCR00188,385905,Pest,CA pending,
+2022-05-11,NCR00189,852208,Defective truck door,CA completed,2022-05-17
+2024-04-18,NCR00190,834169,Defective truck door,CA completed,2024-04-28
+2024-04-29,NCR00191,376342,Pest,CA completed,2024-05-07
+2024-11-15,NCR00192,755796,Defective cooling unit,CA completed,2024-11-25
+2024-09-17,NCR00193,417866,Pest,CA completed,2024-09-23
+2022-03-21,NCR00194,969104,Defective truck door,CA completed,2022-03-25
+2024-07-04,NCR00195,965360,Pest,CA pending,
+2022-06-15,NCR00196,376342,Pest,CA pending,
+2022-04-29,NCR00197,385905,Pest,CA completed,2022-05-04
+2022-03-23,NCR00198,834169,Defective truck door,CA pending,
+2022-04-20,NCR00199,833447,Defective truck door,CA completed,2022-04-27
+2022-01-07,NCR00200,271604,Pest,CA completed,2022-01-10

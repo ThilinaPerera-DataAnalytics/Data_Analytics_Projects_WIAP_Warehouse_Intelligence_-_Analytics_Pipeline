@@ -1,0 +1,8 @@
+pandas
+datetime
+ollama
+functools
+matplotlib
+seaborn
+psycopg2
+logging
