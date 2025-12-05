@@ -12,7 +12,7 @@ This project mirrors a **real enterprise warehouse data platform** and showcases
 
 Click here to interact with the [Online **Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiODYzM2RmOWMtYzA5Yi00MzQzLTkyYTEtODMxNWJmOTQ2M2FhIiwidCI6ImM0ZGRhYWFjLTQ4OWItNGQ1Zi1hMzVjLWFhODVlNmVkZjhkOCJ9)
 
-![cover image](images\readme_cover_image.png)
+![cover image](images\cover_image.png)
 
 **WIAP** is a full-stack **data engineering + analytics + warehouse operations intelligence platform** designed to simulate and analyze real FMCG/3PL warehouse environments.
 
@@ -48,7 +48,8 @@ Everything mirrors **real industry workflow** learned from *9+ years* working in
 ---
 ## ♻️ Basic Warehouse Operation Flow
 
-![WH operation](images\wh_process.png)</br>
+![WH operation](images\wh_process.png)
+</br>
 *`End-to-end WH operation`*
 
 ---
@@ -65,15 +66,14 @@ A **Kanban board** is included to track:
 * KPI validation
 * Future roadmap (Phase II Ops)
 
-![GitHub Projects](images\github_projects.png)</br>
-*`Progress tracking with GitHub Projects - Kanban board`*
+![GitHub Projects](images\github_projects.png)
+</br>`Progress tracking with GitHub Projects - Kanban board`*
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Data Engineering & Analytics Stack**
-
 
 | Category | Tools |
 |---------|-------|
@@ -139,7 +139,7 @@ Data_Analytics_Projects_Warehouse_Process_Analysis_Pipeline/
 └── README.md                          # Project documentation
 ```
 ---
-## Data Pipeline - *from mid to matrix*</br><font size=2>🧠 Idea → 🎨 Design → 🔁 ETL → 📊 Analyze → 🎛️ Dashboard → 📈 Results)</font>
+## Data Pipeline - *from mid to matrix*</br><font size=2>🧠 Idea → 🎨 Design → 🔁 ETL → 📊 Analyze → 🎛️ Dashboard → 📈 Results</font>
 ![Data Pipeline](images\data_pipeline.png)
 
 ## 🏗️ Data Architecture
