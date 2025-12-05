@@ -139,9 +139,10 @@ Data_Analytics_Projects_Warehouse_Process_Analysis_Pipeline/
 └── README.md                          # Project documentation
 ```
 ---
-## 🧰 Data Pipeline - *from mind to matrix*</br><font size=2>🧠 Idea → 🎨 Design → 🔁 ETL → 📊 Analyze → 🎛️ Dashboard → 📈 Results</font>
+## 🧰 Data Pipeline - *from mind to matrix*
 
 ![Data Pipeline](/data_pipeline.png)
+</br><font size=2>🧠 Idea → 🎨 Design → 🔁 ETL → 📊 Analyze → 🎛️ Dashboard → 📈 Results</font>
 
 ## 🏗️ Data Architecture
 *Python + VS Code - [`data_generator.py`](src\data_generator.py)*
@@ -231,7 +232,7 @@ Each KPI includes:
 4. Operational Meaning (High vs Low)    
 5. How to Improve  
 
-### 📙 COO's Dashboard (section wise) - [*COO's  KPI Dictionary 🔍*](KPI_doc\KPI_COO.md)
+### 📙 COO's Dashboard (section wise) - [*COO's  KPI Dictionary 🔍*](kpi_doc\KPI_COO.md)
 ✔ Revenue, Profit, CBM flows  
 ✔ Workforce demographics  
 ✔ Warehouse utilization  
@@ -240,7 +241,7 @@ Each KPI includes:
 ![COO's view](/coo_dashboard.png)</br>
 *`COO's UI`*
 
-### 📗 Inbound/ Retunrs KPIs - [*Inbound/ Returns KPI Dictionary 🔍*](KPI_doc\KPI_Inbound.md)
+### 📗 Inbound/ Retunrs KPIs - [*Inbound/ Returns KPI Dictionary 🔍*](kpi_doc\KPI_Inbound.md)
 ✔ Labour efficiency  
 ✔ Shift productivity (Inbound, Returns)  
 ✔ Operational Cycle times (Picking, Loading, Return handling)  
@@ -256,7 +257,7 @@ Each KPI includes:
 ![Returns](/retunrs_dashboard.png)</br>
 *`Returns UI`*
 
-### 📘 Outbound KPIs - [*Outbound KPI Dictionary 🔍*](KPI_doc\KPI_Outbound.md)
+### 📘 Outbound KPIs - [*Outbound KPI Dictionary 🔍*](KPI_doc\kpi_Outbound.md)
 ✔ Labour efficiency  
 ✔ Shift productivity  
 ✔ Order fulfillment %   
@@ -281,7 +282,6 @@ Each KPI includes:
 ## 🧭 Future Enhancements
 * Integrate Sales data model to perform a financial analysis
 * Predictive analysis with Machine Learnig models
-
 
 ---
 ## 👷 How to Run WIAP
@@ -380,12 +380,10 @@ WIAP isn’t a toy project. It’s a **full-fledged warehouse intelligence platf
 
 ---
 
-
 ## 🙏 Heartfelt Thanks & High-Fives All Around..!
 
 - Learning from YouTube communities: *Exploring best practices in KPI representation and user interface design inspiration*.  
 - Leveraging AI assistants (Grok, ChatGPT, DeepSeek): *For researching concepts, validating ideas, developing KPI/SLA frameworks, and debugging and optimizing codes*.
-
 
 ---
 
