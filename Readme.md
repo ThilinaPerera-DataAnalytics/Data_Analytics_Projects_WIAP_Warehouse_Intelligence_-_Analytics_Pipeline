@@ -10,9 +10,10 @@ This project mirrors a **real enterprise warehouse data platform** and showcases
 * End-to-end FMCG, Warehouse, Logistics and QC Domain Knowledge 
 ```
 
-Click here to interact with the [Online **Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiODYzM2RmOWMtYzA5Yi00MzQzLTkyYTEtODMxNWJmOTQ2M2FhIiwidCI6ImM0ZGRhYWFjLTQ4OWItNGQ1Zi1hMzVjLWFhODVlNmVkZjhkOCJ9)
-
 ![cover image](/cover_image.png)
+
+📊 Interact with the [**Online Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiODYzM2RmOWMtYzA5Yi00MzQzLTkyYTEtODMxNWJmOTQ2M2FhIiwidCI6ImM0ZGRhYWFjLTQ4OWItNGQ1Zi1hMzVjLWFhODVlNmVkZjhkOCJ9)
+</br>🎦 Watch the [**Youtube Video**](https://youtu.be/T1iraeo96mc)
 
 **WIAP** is a full-stack **data engineering + analytics + warehouse operations intelligence platform** designed to simulate and analyze real FMCG/3PL warehouse environments.
 
@@ -67,7 +68,7 @@ A **Kanban board** is included to track:
 * Future roadmap (Phase II Ops)
 
 ![GitHub Projects](/github_projects.png)
-</br>`Progress tracking with GitHub Projects - Kanban board`*
+</br>*`Progress tracking with GitHub Projects - Kanban board`*
 
 ---
 
