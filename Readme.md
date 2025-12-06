@@ -381,10 +381,13 @@ WIAP isn’t a toy project. It’s a **full-fledged warehouse intelligence platf
 
 ---
 
-## 🙏 Heartfelt Thanks & High-Fives All Around..!
+## 🙏 Acknowledgments & Gratitude
 
-- Learning from YouTube communities: *Exploring best practices in KPI representation and user interface design inspiration*.  
-- Leveraging AI assistants (Grok, ChatGPT, DeepSeek): *For researching concepts, validating ideas, developing KPI/SLA frameworks, and debugging and optimizing codes*.
+My sincere thanks to the communities and resources that supported this learning journey:
+
+- **eLearning.lk**: I was fortunate to find this online edu. platform at the start of my learning path. Special thanks to Mr. Sanjaya Elvitigala, the platform owner, and Mr. Asanka Senarath, my first Power BI mentor.
+- **YouTube Communities**: For exploring best practices in KPI representation and drawing inspiration for user interface design.
+- **AI Assistants (Grok, ChatGPT, DeepSeek)**: For researching concepts, validating ideas, developing KPI/SLA frameworks, and assisting with debugging and code optimization.
 
 ---
 
