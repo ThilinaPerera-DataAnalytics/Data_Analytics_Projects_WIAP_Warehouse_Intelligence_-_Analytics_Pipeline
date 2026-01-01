@@ -146,7 +146,7 @@ Data_Analytics_Projects_Warehouse_Process_Analysis_Pipeline/
 </br><font size=2>🧠 Idea → 🎨 Design → 🔁 ETL → 📊 Analyze → 🎛️ Dashboard → 📈 Results</font>
 
 ## 🏗️ Data Architecture
-*Python + VS Code - [`data_generator.py`](src\data_generator.py)*
+*Python + VS Code - [`data_generator.py`](src/data_generator.py)*
 - Python-generated synthetic datasets  
 - SQL-first normalized schema (PK/FK, indexes)  
 - Data cleaning via SQL views  
@@ -157,7 +157,7 @@ Data_Analytics_Projects_Warehouse_Process_Analysis_Pipeline/
 ---
 
 ## 🧱 Schema Design
-*PostgreSQL + VS Code - [`schema.sql`](sql\schema.sql)*
+*PostgreSQL + VS Code - [`schema.sql`](sql/schema.sql)*
 - 4 standalone dimension tables  
 - 10 dependent operational tables  
 - 2 monitoring/incident tables  
@@ -170,7 +170,7 @@ The schema follows a **Raw → Clean Views → PBI ETL → BI Model** architectu
 ---
 
 ## 🔄 ETL & Loading
-*Python + VS Code - [`data_loader.py`](src\data_loader.py)*
+*Python + VS Code - [`data_loader.py`](src/data_loader.py)*
 - FK-safe load sequence  
 - UPSERT logic (`ON CONFLICT`)  
 - Automated logging  
@@ -178,7 +178,7 @@ The schema follows a **Raw → Clean Views → PBI ETL → BI Model** architectu
 ---
 
 ## 🧹 View Layer (Advanced SQL)
-*PostgreSQL + DBeaver - [`views.sql`](sql\views.sql)*
+*PostgreSQL + DBeaver - [`views.sql`](sql/views.sql)*
 - LLM hallucination corrections
 - Missing value imputation
 - NaN → TRUE logic conversions
@@ -233,7 +233,7 @@ Each KPI includes:
 4. Operational Meaning (High vs Low)    
 5. How to Improve  
 
-### 📙 COO's Dashboard (section wise) - [*COO's  KPI Dictionary 🔍*](kpi_doc\KPI_COO.md)
+### 📙 COO's Dashboard (section wise) - [*COO's  KPI Dictionary 🔍*](kpi_doc/KPI_COO.md)
 ✔ Revenue, Profit, CBM flows  
 ✔ Workforce demographics  
 ✔ Warehouse utilization  
@@ -242,7 +242,7 @@ Each KPI includes:
 ![COO's view](/coo_dashboard.png)</br>
 *`COO's UI`*
 
-### 📗 Inbound/ Retunrs KPIs - [*Inbound/ Returns KPI Dictionary 🔍*](kpi_doc\KPI_Inbound.md)
+### 📗 Inbound/ Retunrs KPIs - [*Inbound/ Returns KPI Dictionary 🔍*](kpi_doc/KPI_Inbound.md)
 ✔ Labour efficiency  
 ✔ Shift productivity (Inbound, Returns)  
 ✔ Operational Cycle times (Picking, Loading, Return handling)  
@@ -258,7 +258,7 @@ Each KPI includes:
 ![Returns](/retunrs_dashboard.png)</br>
 *`Returns UI`*
 
-### 📘 Outbound KPIs - [*Outbound KPI Dictionary 🔍*](KPI_doc\kpi_Outbound.md)
+### 📘 Outbound KPIs - [*Outbound KPI Dictionary 🔍*](KPI_doc/kpi_Outbound.md)
 ✔ Labour efficiency  
 ✔ Shift productivity  
 ✔ Order fulfillment %   
