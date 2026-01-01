@@ -146,7 +146,7 @@ Data_Analytics_Projects_Warehouse_Process_Analysis_Pipeline/
 </br><font size=2>🧠 Idea → 🎨 Design → 🔁 ETL → 📊 Analyze → 🎛️ Dashboard → 📈 Results</font>
 
 ## 🏗️ Data Architecture
-*Python + VS Code - [`data_generator.py`](src\data_generator.py)*
+*Python + VS Code - [`data_generator.py`](src/data_loader.py)*
 - Python-generated synthetic datasets  
 - SQL-first normalized schema (PK/FK, indexes)  
 - Data cleaning via SQL views  
